@@ -1,6 +1,5 @@
 # WebapplikasjonerObligCSS
-Besvarele på oppgaven 1
-CSS i emnet webapplikasjoner
+Besvarele for Oblig CSS i emnet webapplikasjoner
 
 Oppgaveteksten:
 
