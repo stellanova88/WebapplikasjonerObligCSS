@@ -4,7 +4,7 @@
 Oppgaveteksten:
 
 Oppgave 1
-I denne oppgaven skal du lage HTML-strukturen for nettsiden. Du trenger blant annet <input>, <form>, <section>, <main>, <nav>, <article>
+I denne oppgaven skal du lage HTML-strukturen for nettsiden. Du trenger blant annet (<input>, <form>, <section>, <main>, <nav>, <article>)
 
 Alt tekst
 Oppgave: Lag HTMLen til designskissen nedenfor i VS Code (eller CodeSandbox). Startfiler kan du finne her Startfiler.
